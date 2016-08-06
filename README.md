@@ -8,6 +8,7 @@ This CSS framework, forked from Milligram, aims to provide a complete CSS framew
 ## Demo
 
 https://kidgodzilla.github.io/minimalist-css-framework/
+
 https://kidgodzilla.github.io/minimalist-css-framework/dark/
 
 ## Usage
