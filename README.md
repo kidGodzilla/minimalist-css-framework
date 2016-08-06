@@ -1,4 +1,4 @@
-# minimalist-css-framework
+# Minimalist CSS Framework
 A Minimalist CSS framework covering most UI elements
 
 ## What is it?
