@@ -13,6 +13,9 @@ https://kidgodzilla.github.io/minimalist-css-framework/dark/
 
 ## Usage
 Add the following CSS file to your website:
+
 https://kidgodzilla.github.io/minimalist-css-framework/css/milligram.min.css
+
 or:
+
 https://kidgodzilla.github.io/minimalist-css-framework/css/milligram.css
